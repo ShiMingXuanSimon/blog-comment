@@ -1,3 +1,12 @@
+# ShiMingXuanSimon's Blog Comment
+
+This directory is forked from `walinejs/waline/example`
+
+Here's the original README below.
+
+---
+---
+
 # Waline Example
 
 This directory is a brief example of a [Waline](https://waline.js.org/) app that can be deployed with Vercel and zero configuration.
